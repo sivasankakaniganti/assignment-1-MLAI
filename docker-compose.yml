@@ -3,7 +3,7 @@ services:
   chatbot:
     image: chatbot:latest
     ports:
-      - "8008:8008"
+      - "8000:8000"
     build:
       context: ./
       dockerfile: Dockerfile

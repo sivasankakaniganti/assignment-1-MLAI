@@ -1,0 +1,9 @@
+version: "3.3"
+services:
+  chatbot:
+    image: chatbot:latest
+    ports:
+      - "8008:8008"
+    build:
+      context: ./
+      dockerfile: Dockerfile

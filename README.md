@@ -34,5 +34,5 @@ If the video does not load, you can watch it [here](videos/demo.mp4).
 ## Limitations
 - Each question is processed independently, meaning there is **no memory functionality** at the moment.
 - The system may take some time for web searches if the information is not present in the uploaded PDFs.
-- The chatbot relies on API-based retrievals, which can be affected by network latency or API limits.
+- The chatbot relies on Groq API, which can be affected by network latency or API limits.
 

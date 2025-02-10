@@ -7,14 +7,14 @@ cd assignment-1-MLAI
 ```
 
 ### Set Up Environment Variables
-Create a `.env` file inside the `src` folder and add your Groq and OpenAI API keys:
+Create a `.env` file inside the `src` folder and add your Groq API keys:
 ```env
 GROQ_API_KEY=your_groq_api_key
 ```
 
 ### Run the Application with Docker Compose
 ```bash
-docker-compose up --build
+docker compose up
 ```
 
 ### Access the Application

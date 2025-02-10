@@ -25,11 +25,11 @@ Once the containers are up, you can access the Chainlit chat interface at:
 You can watch a demo video of the application in action below:
 
 <video width="600" controls>
-  <source src="video/demo.mp4" type="video/mp4">
+  <source src="videos/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-If the video does not load, you can watch it [here](video/demo.mp4).
+If the video does not load, you can watch it [here](videos/demo.mp4).
 
 ## Limitations
 - Each question is processed independently, meaning there is **no memory functionality** at the moment.
